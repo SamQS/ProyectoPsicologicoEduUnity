@@ -1,0 +1,240 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 4755b35b590504809a7525fd2109c2e2
+  - enabled: 1
+    path: Assets/Scenes/WelcomeScene.unity
+    guid: 97aa4e0dcc5172c40bc5255526299dec
+  - enabled: 0
+    path: Assets/Scenes/SampleScene 1.unity
+    guid: 1084ac2ce2e5cdf428b7ba0caecd337c
+  - enabled: 1
+    path: Assets/Scenes/PruebaRA.unity
+    guid: ef0472c617b9f614ca170a739183d0a7
+  - enabled: 1
+    path: Assets/Scenes/RegistroEstudiantes.unity
+    guid: 0a669ba7159b5d948b94c284b6ae095c
+  - enabled: 1
+    path: Assets/Scenes/MenuOpciones.unity
+    guid: 4c5f95978f681744ca78c920ecc356b5
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial.unity
+    guid: 6b9d8b4fa9e57204ab6553524600761e
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial02.unity
+    guid: ee88648383ffd824197565808bacab66
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial03.unity
+    guid: 2794455191765354ba7e1ebcac7b6b33
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial04.unity
+    guid: cf6883ef5f5d64c4db28aff90704e232
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial05.unity
+    guid: f043d47a657112d4f85a4a042533970e
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial06.unity
+    guid: 61d30ab9f0cb3f141839f2cc2017e227
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial07.unity
+    guid: 9bb9fb86d9b7dff47ad98139f9de1bb6
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial08.unity
+    guid: 83d8e8541aa027641bd0d163d12e3591
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial09.unity
+    guid: 9a83143912df17d428a511ac77dafd4d
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial10.unity
+    guid: 66c69ae58cdf5bd4799555d8c8d5beb4
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial11.unity
+    guid: 01d21d3b34f19bb46a116dc57ebf2f09
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial12.unity
+    guid: 49b1c0d88c88ba9408d9d55c217c38c5
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial13.unity
+    guid: 90394d937b1e8f542a8ca3b9001d96c7
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial14.unity
+    guid: 0ec5542f887504947a0abb2de0c13ce4
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial15.unity
+    guid: 5bab90f446c7aa043b39b8164564f7df
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial16.unity
+    guid: 8e22b2b27fa854642b557c656dbea95b
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial17.unity
+    guid: 0afb0883fdce851419c13c81487b6f2d
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial18.unity
+    guid: a19589d3263acd046a69f0e695b04095
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial19.unity
+    guid: e40b3940991c9a04caa298dfc1a6cc30
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial20.unity
+    guid: fc9ad2f4e94d38043af0ebd1b8b6896e
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial21.unity
+    guid: e9ab7e4b5776d994badfbe92573f3bf1
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial22.unity
+    guid: e0e56bc878044614bbc514e3e8b2148b
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial23.unity
+    guid: d4ae960998a957941822d2f0de43bab9
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial24.unity
+    guid: 5d57d48b8826fd94fae548f526dcd0a5
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial25.unity
+    guid: 7b4da00d371694d43a3b3925a988ce3b
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial26.unity
+    guid: 40e954b067ca9cb49b4fad61e1c13b50
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial27.unity
+    guid: e681bc6315aa8614aba7957abc09ff7e
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial28.unity
+    guid: 224f6d4fd3c24ba48bda3acc238d2e0c
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial29.unity
+    guid: 1c17ea87c0195414294c304e63c50bef
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial30.unity
+    guid: 48237fc471a1db342bfcc4e485cf49a8
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial31.unity
+    guid: a42c9cbe4f1cd5f4db599e721ce93ec2
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial32.unity
+    guid: 0b146c17a7b804b428353fee48600485
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial33.unity
+    guid: bf5c19f24b4bde242aa04f4ac2a3664b
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario Inicial/CuestionarioInicial34.unity
+    guid: 7483fac03eaf13448a95f0d9dc6f7b98
+  - enabled: 1
+    path: Assets/Scenes/ResultadosCuestionarioInicial.unity
+    guid: 586041f0592ae594dab09e260ce47fa8
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal.unity
+    guid: 70ec9750da5f6aa4b8abb88b3e9cdb98
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal02.unity
+    guid: 9ec2202d8d4932f41b53bf40d1561e9b
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal03.unity
+    guid: 1ac6e48de14558043b9446297db13b70
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal04.unity
+    guid: fd666c6af3716c9419a7e65b28346937
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal05.unity
+    guid: 9f5d5d12b65602f478979050e338212d
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal06.unity
+    guid: de1bd3c1f138ee344b7fc965b453532b
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal07.unity
+    guid: 95aef03c098d90c48bc068021b9246b8
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal08.unity
+    guid: 5d206bd0010e42a40a0db8a44995f37c
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal09.unity
+    guid: c8116782279931a42a2893f0b0c2bcdd
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal10.unity
+    guid: 9e7dc3ca7f2c94040aadd317be55f4e9
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal11.unity
+    guid: cea7a87d7a80d574ab8ef8796ec486d4
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal12.unity
+    guid: 89526635637b87542a092fbd90784aa9
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal13.unity
+    guid: d2606fa4eb93d854c8dcd4ffcca0111b
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal14.unity
+    guid: 6086b3d3326d97b4ea86064e4e80bc4b
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal15.unity
+    guid: 59c4f0fd7f30084439853493a90892ae
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal16.unity
+    guid: 59a2da9d791877a43b85d9eccaddf00f
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal18.unity
+    guid: 932f7eb60cf96d34d990f9ffc7542669
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal19.unity
+    guid: 1c174398d3099264c9c90810e13159c7
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal20.unity
+    guid: 39c51a77ad0f6764c99f9a0f6b13b363
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal21.unity
+    guid: b2677fa63f302fe4caeddf53bc788fc7
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal22.unity
+    guid: 53b2075d028e9fc4d8173ff43d39da8a
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal23.unity
+    guid: f57c19b71db9ee54d8cbdffc1c877a0c
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal24.unity
+    guid: cd1b9f618860dfb439e2f28c4d7f61a5
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal25.unity
+    guid: 1099fbe783318124283eaa615315f860
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal26.unity
+    guid: e109926850b2f1347afe65fe4f392c95
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal27.unity
+    guid: fb6d3210c91744347b4a830e4ae1babd
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal28.unity
+    guid: 198a9e245e2aeea47a039b8552b7a874
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal29.unity
+    guid: c2a5398eac77a9f46b4f859c0fc14fee
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal30.unity
+    guid: f8febd1d3cfa40c4cb7493feca034f7c
+  - enabled: 1
+    path: Assets/Scenes/CuestionarioFinal/CuestionarioFinal17.unity
+    guid: e9ebddd3e9d256e4897f37d41cd95df1
+  - enabled: 1
+    path: Assets/Scenes/ResultadosCuestionarioFinal.unity
+    guid: 44d31ae4ee7401e4e9ad9f0ae35cb8c5
+  - enabled: 1
+    path: Assets/Scenes/ResultadosFinales.unity
+    guid: ccc8623db8ab58d4ea15e304ac7f15b4
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0465d33c6aee55f44b0237db8b0e0259,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: c199e683398494f32b4cde18e73ab731,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 0b53a025a635a4393ba0b49822242280,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3fd4fc0127790db4bae83f7b77da8d45,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b07c4ba7650be4c25b3d0c497e7e2bb8,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0
